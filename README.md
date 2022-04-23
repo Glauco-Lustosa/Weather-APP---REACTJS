@@ -112,7 +112,7 @@ For you run this project you will need to install it locally using npm.
 
 This project was built and posted on youtube by DeivId, Thanks for the free study material!
 
-* [Tyler Potts](https://github.com/TylerPottsDev)
+* [Daniela Scripts](https://github.com/danascript)
 * [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
