@@ -6,7 +6,7 @@ import getCurrentDayDetailedForecast from '../helpers/getCurrentDayDetailedForec
 import getUpcomingDaysForecast from '../helpers/getUpcomingDaysForecast';
 
 const BASE_URL = 'https://www.metaweather.com/api/location';
-const CROSS_DOMAIN = 'https://the-ultimate-api-challenge.herokuapp.com';
+const CROSS_DOMAIN = 'http://cors-anywhere.herokuapp.com';
 const REQUEST_URL = `${CROSS_DOMAIN}/${BASE_URL}`;
 
 const useForecast = () => {
@@ -16,7 +16,7 @@ const useForecast = () => {
 
     const getWoeid = async location => {
         const { data } = await axios(`${REQUEST_URL}/search`, { params: { query: location } });
-
+        console.log(data);
         if (!data || data.length === 0) {
             setError('There is no such location');
             setLoading(false);
