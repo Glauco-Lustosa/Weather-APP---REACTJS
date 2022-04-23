@@ -10,19 +10,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">
-    <img src="images/calculator.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/X-Suco-De-Fruta-X/Weather-APP---REACTJS">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Calculator - ReactJS</h3>
+  <h3 align="center">Weather - ReactJS</h3>
 
   <p align="center">
-    An awesome <strong>Calculator</strong> created to improve skills on React JS!
+    An awesome <strong>Weather</strong> created to improve skills on React JS!
     <br />
     <br />
-    <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">View Demo</a>
+    <a href="https://github.com/X-Suco-De-Fruta-X/Weather-APP---REACTJS">View Demo</a>
     ·
-    <a href="https://github.com/X-Suco-De-Fruta-X/Calculator/issues">Report Bug</a>
+    <a href="https://github.com/X-Suco-De-Fruta-X/Weather-APP---REACTJS/issues">Report Bug</a>
     
   </p>
 </div>
@@ -88,11 +88,11 @@ For you run this project you will need to install it locally using npm.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your_username_/Calculator.git
+   git clone https://github.com/your_username_/Weather-APP---REACTJS.git
    ```
 2. Clone the repository
    ```bash
-    cd Calculator
+    cd Weather-APP---REACTJS
    ```
 
 3. Install NPM packages
@@ -119,16 +119,16 @@ This project was built and posted on youtube by DeivId, Thanks for the free stud
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Glauco-Lustosa/Weather-APP---REACTJS.svg?style=for-the-badge
+[contributors-url]: https://github.com/Glauco-Lustosa/Weather-APP---REACTJS/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Glauco-Lustosa/Weather-APP---REACTJS.svg?style=for-the-badge
+[forks-url]: https://github.com/Glauco-Lustosa/Weather-APP---REACTJS/network/members
+[stars-shield]: https://img.shields.io/github/stars/Glauco-Lustosa/Weather-APP---REACTJS.svg?style=for-the-badge
+[stars-url]: https://github.com/Glauco-Lustosa/Weather-APP---REACTJS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Glauco-Lustosa/Weather-APP---REACTJS.svg?style=for-the-badge
+[issues-url]: https://github.com/Glauco-Lustosa/Weather-APP---REACTJS/issues
+[license-shield]: https://img.shields.io/github/license/Glauco-Lustosa/Weather-APP---REACTJS.svg?style=for-the-badge
+[license-url]: https://github.com/Glauco-Lustosa/Weather-APP---REACTJS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [instagram-shield]: https://img.shields.io/badge/-instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
